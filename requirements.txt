@@ -1,0 +1,19 @@
+# Network Toolkit - Python Dependencies
+# Semua modul ini adalah bagian dari Python Standard Library
+# Tidak ada library pihak ketiga yang diperlukan untuk Python.
+#
+# Namun jika Anda ingin menggunakan fitur tambahan (opsional):
+# pip install requests        # HTTP requests yang lebih lengkap
+# pip install dnspython       # DNS query yang lebih powerful
+# pip install python-whois    # Whois lookup langsung dari Python
+#
+# Untuk menjalankan Ruby modules, pastikan Ruby sudah terinstall:
+# https://www.ruby-lang.org/en/downloads/
+#
+# Ruby Gems yang digunakan (semua built-in, tidak perlu install tambahan):
+# - socket    (built-in)
+# - openssl   (built-in)
+# - resolv    (built-in)
+# - net/http  (built-in)
+# - json      (built-in)
+# - timeout   (built-in)
